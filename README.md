@@ -2,16 +2,26 @@
 
 ## Peter🥝 <img src="https://emojis.slackmojis.com/emojis/images/1588866973/8934/hellokittydance.gif?1588866973" alt="Hi" width="42" /> 
 
-### 自我介绍
 
-<div><img align="right" alt="GIF" src="https://z4a.net/images/2023/08/14/push.webp" width="300" height="100%" /></div>
+### 自我介绍  <img src="https://cdn.jiler.cn/techug/uploads/2017/07/image.php_-38.gif" alt="Hi" width="42" /> 
+
+
+
+<div><img align="right" alt="GIF" src="https://img-blog.csdnimg.cn/img_convert/2bf03a48c680a4d3da5d08f280b45d7e.gif" width="300" height="100%" /></div>
 
 - 大家好，我是Peter🥝，来自江西丰城
 - 本科专业软件工程
 - 对数据结构与算法、C、Java感兴趣
 - 欢迎光临我的Github 🍧
 
+
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0A222D&width=435&lines=Believe+in+yourself.+;I+can+because+I+think+I+can.;Never+give+up+and+never+give+in.)](https://git.io/typing-svg)
+
+
+<div align="center">
+    <img  src="https://github-readme-streak-stats.herokuapp.com/?user=bitliyaowei" />
+</div>
  
 ### 社交主页
 
@@ -53,6 +63,20 @@
 <!-- ### 编程语言 -->
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bitliyaowei&langs_count=6&theme=tokyonight) -->
 
+## 📈Statistics
+
+
+<table align="center">
+  <tr>
+    <td align="center" valign="top">
+      <img src="https://github-readme-stats-fast.vercel.app/api?username=bitliyaowei&show_icons=true&include_all_commits=true&rank_icon=github" />
+    </td>
+    <td align="center" valign="top">
+      <img src="https://github-contributor-stats.vercel.app/api?username=bitliyaowei" />
+    </td>
+  </tr>
+</table>
+
 ### Github 状态图
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bitliyaowei)
 ![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=bitliyaowei&repo=bitliyaowei.github.io)
@@ -71,6 +95,6 @@
 
 ### 投喂作者🍭🍭🍭
 
-<a href="https://www.fomal.cc/personal/about/" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="投喂作者🍭" style="height: 40px !important;width: 145px !important;" ></a>
+<a href="" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="投喂作者🍭" style="height: 40px !important;width: 145px !important;" ></a>
 
 <br>

@@ -2,11 +2,13 @@
 
 ## Peter🥝 <img src="https://emojis.slackmojis.com/emojis/images/1588866973/8934/hellokittydance.gif?1588866973" alt="Hi" width="42" /> 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=你的用户名)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=你的用户名)
-![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=你的用户名&repo=项目名)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=用户名&theme=dark)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=用户名&cache_seconds=1800)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=bitliyaowei)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bitliyaowei)
+![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=bitliyaowei&repo=bitliyaowei.github.io)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=bitliyaowei&theme=dark)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=liyaowei&cache_seconds=1800)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=bitliyaowei&count_private=true)
+![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=bitliyaowei)
 
 ### 自我介绍
 
@@ -22,7 +24,7 @@
 
 
 
-- <a href="https://www.fomal.cc"><img height="22" width="22" src="https://www.fomal.cc/favicon.ico"></a>：个人网站，访问量
+- <a href="https://bitliyaowei.github.io/"><img height="22" width="22" src="https://www.fomal.cc/favicon.ico"></a>：个人网站，访问量
 - <a href="https://space.bilibili.com/220757832"><img height="22" width="22" src="https://www.bilibili.com/favicon.ico"></a>：Bilibili主页，播放量，粉丝累计
 - <a href="https://leetcode.cn/u/fomalhaut1998/"><img height="22" width="22" src="https://leetcode.cn/favicon.ico"></a>：LeetCode主页，粉丝累计
 
@@ -47,12 +49,12 @@
 
 
 ### 开源项目
-[![](https://github-readme-stats.vercel.app/api/pin/?username=fomalhaut1998&repo=hexo-theme-Fomalhaut&theme=tokyonight)](https://github.com/fomalhaut1998/hexo-theme-Fomalhaut)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=bitliyaowei&repo=hexo-theme-Fomalhaut&theme=tokyonight)](https://github.com/fomalhaut1998/hexo-theme-Fomalhaut)
 &emsp;&emsp;
-[![](https://github-readme-stats.vercel.app/api/pin/?username=fomalhaut1998&repo=fomalhaut1998.github.io&theme=tokyonight)](https://github.com/fomalhaut1998/fomalhaut1998.github.io)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=bitliyaowei&repo=fomalhaut1998.github.io&theme=tokyonight)](https://github.com/fomalhaut1998/fomalhaut1998.github.io)
 <br>
 
-<!-- [![](https://github-readme-stats.vercel.app/api/pin/?username=fomalhaut1998&repo=DeleteSpace_and_Translation&theme=tokyonight)](https://github.com/fomalhaut1998/DeleteSpace_and_Translation)
+<!-- [![](https://github-readme-stats.vercel.app/api/pin/?username=bitliyaowei&repo=DeleteSpace_and_Translation&theme=tokyonight)](https://github.com/fomalhaut1998/DeleteSpace_and_Translation)
 <br> -->
 
 <!-- ### 编程语言 -->

@@ -2,21 +2,17 @@
 
 ## Peter🥝 <img src="https://emojis.slackmojis.com/emojis/images/1588866973/8934/hellokittydance.gif?1588866973" alt="Hi" width="42" /> 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bitliyaowei)
-![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=bitliyaowei&repo=bitliyaowei.github.io)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=bitliyaowei&theme=dark&cache_seconds=1800)
-![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=bitliyaowei)
-
 ### 自我介绍
 
 <div><img align="right" alt="GIF" src="https://z4a.net/images/2023/08/14/push.webp" width="300" height="100%" /></div>
 
-- 大家好，我是🥝，来自江西丰城
-- 本科软件工程
+- 大家好，我是Peter🥝，来自江西丰城
+- 本科专业软件工程
 - 对数据结构与算法、C、Java感兴趣
 - 欢迎光临我的Github 🍧
 
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0A222D&width=435&lines=Believe+in+yourself.+;I+can+because+I+think+I+can.;Never+give+up+and+never+give+in.)](https://git.io/typing-svg)
+ 
 ### 社交主页
 
 
@@ -58,6 +54,11 @@
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bitliyaowei&langs_count=6&theme=tokyonight) -->
 
 ### Github 状态图
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bitliyaowei)
+![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=bitliyaowei&repo=bitliyaowei.github.io)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=bitliyaowei&theme=dark&cache_seconds=1800)
+![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=bitliyaowei)
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bitliyaowei&theme=default&show_icons=true&hide_border=true&count_private=true)
  [![Peter's github stats](https://github-readme-stats.vercel.app/api?username=bitliyaowei)](https://github.com/bitliyaowei/github-readme-stats)
 
@@ -65,6 +66,8 @@
 [![bitliyaowei's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=bitliyaowei&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <br>
+
+<div align="center"><img src="https://raw.githubusercontent.com/bitliyaowei/bitliyaowei/main/assets/github-contribution-grid-snake.svg" ></div>
 
 ### 投喂作者🍭🍭🍭
 

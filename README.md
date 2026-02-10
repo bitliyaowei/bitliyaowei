@@ -53,8 +53,6 @@
 
 ### 开源项目
 [![](https://github-readme-stats.vercel.app/api/pin/?username=bitliyaowei&repo=bitliyaowei.github.io&theme=tokyonight)](https://github.com/bitliyaowei/bitliyaowei.github.io)
-&emsp;&emsp;
-[![](https://github-readme-stats.vercel.app/api/pin/?username=bitliyaowei&repo=fomalhaut1998.github.io&theme=tokyonight)](https://github.com/fomalhaut1998/fomalhaut1998.github.io)
 <br>
 
 <!-- [![](https://github-readme-stats.vercel.app/api/pin/?username=bitliyaowei&repo=DeleteSpace_and_Translation&theme=tokyonight)](https://github.com/fomalhaut1998/DeleteSpace_and_Translation)

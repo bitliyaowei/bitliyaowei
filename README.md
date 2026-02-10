@@ -2,12 +2,9 @@
 
 ## Peter🥝 <img src="https://emojis.slackmojis.com/emojis/images/1588866973/8934/hellokittydance.gif?1588866973" alt="Hi" width="42" /> 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=bitliyaowei)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bitliyaowei)
 ![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=bitliyaowei&repo=bitliyaowei.github.io)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=bitliyaowei&theme=dark)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=liyaowei&cache_seconds=1800)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=bitliyaowei&count_private=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=bitliyaowei&theme=dark&cache_seconds=1800)
 ![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=bitliyaowei)
 
 ### 自我介绍

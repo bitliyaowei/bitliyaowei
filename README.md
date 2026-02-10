@@ -46,7 +46,7 @@
 
 
 ### 开源项目
-[![](https://github-readme-stats.vercel.app/api/pin/?username=bitliyaowei&repo=hexo-theme-Fomalhaut&theme=tokyonight)](https://github.com/fomalhaut1998/hexo-theme-Fomalhaut)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=bitliyaowei&repo=bitliyaowei.github.io&theme=tokyonight)](https://github.com/bitliyaowei/bitliyaowei.github.io)
 &emsp;&emsp;
 [![](https://github-readme-stats.vercel.app/api/pin/?username=bitliyaowei&repo=fomalhaut1998.github.io&theme=tokyonight)](https://github.com/fomalhaut1998/fomalhaut1998.github.io)
 <br>

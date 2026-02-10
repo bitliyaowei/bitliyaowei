@@ -2,6 +2,12 @@
 
 ## Peter🥝 <img src="https://emojis.slackmojis.com/emojis/images/1588866973/8934/hellokittydance.gif?1588866973" alt="Hi" width="42" /> 
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=你的用户名)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=你的用户名)
+![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=你的用户名&repo=项目名)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=用户名&theme=dark)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=用户名&cache_seconds=1800)
+
 ### 自我介绍
 
 <div><img align="right" alt="GIF" src="https://z4a.net/images/2023/08/14/push.webp" width="300" height="100%" /></div>
@@ -53,7 +59,7 @@
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bitliyaowei&langs_count=6&theme=tokyonight) -->
 
 ### Github 状态图
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bitliyaowei&theme=default&show_icons=true&hide_border=true&count_private=true)
  [![Peter's github stats](https://github-readme-stats.vercel.app/api?username=bitliyaowei)](https://github.com/bitliyaowei/github-readme-stats)
 
 ### Github 贡献图

@@ -182,5 +182,5 @@
 <!-- 底部版权信息 -->
 <p align="center">
   <img src="https://img.shields.io/badge/更新时间-2026.02-64748b?style=flat" alt="更新时间" />
-  <img src="https://img.shields.io/github/license/bitliyaowei/bitliyaowei?style=flat&label=License&color=blue&message=MIT" alt="MIT开源协议" />
+  <img src="https://img.shields.io/github/license/bitliyaowei/bitliyaowei?style=flat&label=License&color=blue&cacheSeconds=1&message=MIT" alt="MIT开源协议" />
 </p>

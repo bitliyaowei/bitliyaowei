@@ -1,11 +1,8 @@
-<img align="right" src="https://count.getloli.com/get/@:fomalhaut1998?theme=moebooru">
+<img align="right" src="https://count.getloli.com/@:bitliyaowei?theme=moebooru&darkmode=auto">
 
 ## Peter🥝 <img src="https://emojis.slackmojis.com/emojis/images/1588866973/8934/hellokittydance.gif?1588866973" alt="Hi" width="42" /> 
 
-
-### 自我介绍  <img src="https://cdn.jiler.cn/techug/uploads/2017/07/image.php_-38.gif" alt="Hi" width="42" /> 
-
-
+### 👨‍💻 自我介绍 <img src="https://cdn.jiler.cn/techug/uploads/2017/07/image.php_-38.gif" alt="Hi" width="42" /> 
 
 <div><img align="right" alt="GIF" src="https://img-blog.csdnimg.cn/img_convert/2bf03a48c680a4d3da5d08f280b45d7e.gif" width="300" height="100%" /></div>
 
@@ -15,7 +12,6 @@
 - 欢迎光临我的Github 🍧
 
 
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0A222D&width=435&lines=Believe+in+yourself.+;I+can+because+I+think+I+can.;Never+give+up+and+never+give+in.)](https://git.io/typing-svg)
 
 
@@ -23,14 +19,14 @@
     <img  src="https://github-readme-streak-stats.herokuapp.com/?user=bitliyaowei" />
 </div>
  
-### 社交主页
+### 🌐 社交主页
 
 - <a href="https://bitliyaowei.github.io/"><img height="22" width="22" src="https://www.fomal.cc/favicon.ico"></a>：个人网站
 - <a href="https://space.bilibili.com/1671965320"><img height="22" width="22" src="https://www.bilibili.com/favicon.ico"></a>：Bilibili主页
 - <a href="https://leetcode.cn/u/bitliyaowei/"><img height="22" width="22" src="https://leetcode.cn/favicon.ico"></a>：LeetCode主页
 - <a href="https://blog.csdn.net/qq_74204532"><img height="22" width="22" src="https://blog.csdn.net/favicon.ico"></a>：CSDN主页
 
-### 技术栈
+### 🛠️ 技术栈
 ![C#](https://img.shields.io/badge/-C%20Sharp-%23239120?style=flat&logo=C%20Sharp)
 ![C语言](https://img.shields.io/badge/-C%E8%AF%AD%E8%A8%80-%2313c9ae?style=flat&logo=C&logoColor=ffffff)
 ![Java](https://img.shields.io/badge/-Java-%23972fcd?style=flat&logo=OPENJDK)
@@ -47,18 +43,14 @@
 ![VS Code](https://img.shields.io/badge/-VSCode-%230066B8?style=flat&logo=visual-studio-code)
 
 
-### 开源项目
-[![](https://github-readme-stats.vercel.app/api/pin/?username=bitliyaowei&repo=bitliyaowei.github.io&theme=tokyonight)](https://github.com/bitliyaowei/bitliyaowei.github.io)
+### 📌 开源项目
+[![blog](https://github-readme-stats.vercel.app/api/pin/?username=bitliyaowei&repo=bitliyaowei.github.io&theme=tokyonight)](https://github.com/bitliyaowei/bitliyaowei.github.io)
 <br>
-
-<!-- [![](https://github-readme-stats.vercel.app/api/pin/?username=bitliyaowei&repo=DeleteSpace_and_Translation&theme=tokyonight)](https://github.com/fomalhaut1998/DeleteSpace_and_Translation)
-<br> -->
 
 <!-- ### 编程语言 -->
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bitliyaowei&langs_count=6&theme=tokyonight) -->
 
-## 📈Statistics
-
+## 📈 Statistics
 
 <table align="center">
   <tr>
@@ -80,14 +72,14 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bitliyaowei&theme=default&show_icons=true&hide_border=true&count_private=true)
  [![Peter's github stats](https://github-readme-stats.vercel.app/api?username=bitliyaowei)](https://github.com/bitliyaowei/github-readme-stats)
 
-### Github 贡献图
+### 🐍 贡献可视化
 [![bitliyaowei's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=bitliyaowei&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <br>
 
 <div align="center"><img src="https://raw.githubusercontent.com/bitliyaowei/bitliyaowei/main/assets/github-contribution-grid-snake.svg" ></div>
 
-### 投喂作者🍭🍭🍭
+### ☕ 支持作者
 
 开源与创作不易，如果喜欢我的作品，欢迎给我赞赏，这会激励我继续维护项目和持续创作新项目。
 

@@ -33,7 +33,7 @@
    <tr>
        <td  valign="top" width="50%">
 
-### 📝<a href="https://achuan-2.github.io/" target="_blank">Recent Blog</a>
+### 📝<a href="https://bitliyaowei.github.io/" target="_blank">Recent Blog</a>
 
 <!-- START_SECTION:blog -->
 
@@ -41,7 +41,7 @@
 </td>
        <td  valign="top" width="50%">
 
-### 🎥 <a href="https://www.douban.com/people/sjx270992395/" target="_blank">Douban</a>
+### 🎥 <a href="https://space.bilibili.com/1671965320" target="_blank">Bilibili</a>
 
 <!-- START_SECTION:douban -->
 

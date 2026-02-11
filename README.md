@@ -122,9 +122,8 @@
 每一份赞赏我都会认真珍惜，也会优先回复赞赏用户的问题与建议。
 
 <div align="center">
-<img src="images/payment_code.png" alt="赞赏码" width="280">
-<br>
-<a href="images/payment_code.png" target="_blank">
-<img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="投喂作者🍭" style="height: 40px; width: 145px;">
-</a>
+  <img src="images/WeChat_payment_code.png" alt="微信赞赏码" width="280">&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="images/Alipay_payment_code.png" alt="支付宝赞赏码" width="280">
+  <br><br>
+  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="投喂作者🍭" style="height: 40px; width: 145px;">
 </div>

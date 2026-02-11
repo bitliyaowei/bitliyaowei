@@ -117,7 +117,7 @@
   <tr style="border:none;">
     <td align="center" valign="center" style="width:50%; border:none; padding:5px;">
       <img 
-        src="https://github-readme-stats-dun-eight-53.vercel.app/api/top-langs/?username=bitliyaowei" 
+        src="https://github-readme-stats-dun-eight-53.vercel.app/api/top-langs/?username=bitliyaowei&langs_count=3" 
         alt="Top 编程语言统计"
         style="max-width:100%; height:auto; object-fit:contain;" 
       />

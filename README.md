@@ -72,6 +72,11 @@
   </tr>
 </table>
 
+### weekly development breakdown
+
+<!-- START_SECTION:waka -->
+<!-- END_SECTION:waka -->
+
 ### Github 状态图
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bitliyaowei)
 ![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=bitliyaowei&repo=bitliyaowei.github.io)

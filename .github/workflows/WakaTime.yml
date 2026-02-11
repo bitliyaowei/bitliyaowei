@@ -2,20 +2,29 @@ name: Waka Readme
 
 on:
   schedule:
-    - cron: '30 18 * * *'  # 保留原定时规则
-  workflow_dispatch:       # 保留手动触发
+    - cron: '30 18 * * *'
+  workflow_dispatch:
 
 jobs:
   update-readme:
     name: Update Readme with Metrics
     runs-on: ubuntu-latest
     permissions:
-      contents: write      # 仅保留合法的写入权限
-    timeout-minutes: 5     # 防止任务挂起
+      contents: write
+    timeout-minutes: 5
     steps:
-      # 修正：改回master分支（该Action无v3版本标签）
       - uses: anmol098/waka-readme-stats@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          # 关键：指定手动创建的PAT（解决403权限问题）
           GH_TOKEN: ${{ secrets.GH_ACCESS_TOKEN }}
+          # 核心：开启所有关键展示项，确保有内容输出
+          SHOW_LANGUAGES: true        # 显示语言统计（必开）
+          SHOW_EDITORS: true          # 显示编辑器统计
+          SHOW_OS: true               # 显示操作系统统计
+          SHOW_PROJECTS: true         # 显示项目统计
+          LANGUAGE_COUNT: 6           # 展示前6种语言
+          TIME_RANGE: last_7_days     # 统计近7天数据
+          SHOW_SHORT_INFO: true       # 显示简短汇总
+          SHOW_TOTAL_CODE_TIME: true  # 显示总编码时长
+          # 关闭易出问题的访问量统计
+          SHOW_PROFILE_VIEWS: false

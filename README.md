@@ -94,6 +94,28 @@
   <!-- END_SECTION:waka -->
 </div>
 
+### 📊 GitHub 数据统计
+
+> 基于自部署的 github-readme-stats 生成，数据实时更新
+>
+<p align="center">
+<!-- 常用编程语言统计 -->
+![Top Languages](https://github-readme-stats-dun-eight-53.vercel.app/api/top-langs/?username=bitliyaowei&langs_count=6&theme=tokyonight&hide_border=true&cache_seconds=1800)
+<br>
+<!-- 核心开源项目卡片 -->
+![Repo Card: bitliyaowei.github.io](https://github-readme-stats-dun-eight-53.vercel.app/api/pin/?username=bitliyaowei&repo=bitliyaowei.github.io&theme=tokyonight&hide_border=true&cache_seconds=1800)
+<br>
+<!-- GitHub 综合统计（保留最全参数，删除重复项） -->
+![GitHub Stats](https://github-readme-stats-dun-eight-53.vercel.app/api?username=bitliyaowei&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&cache_seconds=1800)
+<br>
+<!-- WakaTime 代码时长统计 -->
+![WakaTime Stats](https://github-readme-stats-dun-eight-53.vercel.app/api/wakatime?username=bitliyaowei&theme=tokyonight&hide_border=true&cache_seconds=1800)
+
+<small>💡 WakaTime无数据？需先绑定WakaTime账号并开启统计</small>
+<br>
+<small style="color:#94a3b8;">若卡片未显示：检查Vercel部署状态或GitHub PAT令牌配置</small>
+</p>
+
 ### Github 状态图
 
 <!-- 替换为你自己部署的主域名，100% 能加载 -->

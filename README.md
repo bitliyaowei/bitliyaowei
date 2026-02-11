@@ -87,13 +87,11 @@
 
 <div align="center"><img src="https://raw.githubusercontent.com/bitliyaowei/bitliyaowei/main/assets/github-contribution-grid-snake.svg" ></div>
 
-<div align="center"><img src="https://github.com/bitliyaowei/bitliyaowei/main/assets/github-contribution-grid-snake.svg" ></div>
-
-<div align="center"><img src="https://github.com/bitliyaowei/bitliyaowei/blob/main/assets/github-contribution-grid-snake.svg" ></div>
-
-<div align="center"><img src="https://cdn.jsdelivr.net/gh/bitliyaowei/bitliyaowei/assets/github-contribution-grid-snake.svg" ></div>
-
 ### 投喂作者🍭🍭🍭
+
+开源与创作不易，如果喜欢我的作品，欢迎给我赞赏，这会激励我继续维护项目和持续创作新项目。
+
+开源不等于免费，我开源的目的是分享与交流学习，而不是免费给别人打工。开源的代码和插件、软件，首先都是写给自己用，顺道分享出来的，而不是为了给别人用而写。个人时间和精力有限，我不会免费帮忙实现用户提的各种功能请求、免费帮别人答疑解惑，在优先考虑个人需求的前提下，再考虑赞赏用户的使用答疑、功能建议。
 
 <a href="" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="投喂作者🍭" style="height: 40px !important;width: 145px !important;" ></a>
 

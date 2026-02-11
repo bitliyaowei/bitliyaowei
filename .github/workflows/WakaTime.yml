@@ -9,17 +9,13 @@ jobs:
   update-readme:
     name: Update Readme with Metrics
     runs-on: ubuntu-latest
-    # 仅保留合法的权限字段（移除traffic: read）
     permissions:
-      contents: write      # 仅保留写入仓库内容的权限（必要）
+      contents: write      # 仅保留合法的写入权限
     timeout-minutes: 5     # 防止任务挂起
     steps:
-      # 锁定版本为v3（稳定版），避免master分支更新导致问题
-      - uses: anmol098/waka-readme-stats@v3
+      # 修正：改回master分支（该Action无v3版本标签）
+      - uses: anmol098/waka-readme-stats@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          # 关键：指定手动创建的PAT（已包含traffic访问权限）
+          # 关键：指定手动创建的PAT（解决403权限问题）
           GH_TOKEN: ${{ secrets.GH_ACCESS_TOKEN }}
-          # 可选：若仍报traffic相关错误，关闭访问量统计
-          SHOW_PROFILE_VIEWS: false
-          LANGUAGE_COUNT: 8

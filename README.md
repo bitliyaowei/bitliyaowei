@@ -65,87 +65,45 @@
 
 ### 📌 开源项目
 
-[![blog](https://github-readme-stats.vercel.app/api/pin/?username=bitliyaowei&repo=bitliyaowei.github.io&theme=tokyonight)](https://github.com/bitliyaowei/bitliyaowei.github.io)
+![Repo Card: bitliyaowei.github.io](https://github-readme-stats-dun-eight-53.vercel.app/api/pin/?username=bitliyaowei&repo=bitliyaowei.github.io)
 <br>
 
-<!-- ### 编程语言 -->
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bitliyaowei&langs_count=6&theme=tokyonight) -->
-
-## 📈 Statistics
-
-<div align="center">
-  <table style="width:90%;">
-    <tr>
-      <td align="center" valign="top">
-        <img src="https://github-readme-stats-fast.vercel.app/api?username=bitliyaowei&show_icons=true&include_all_commits=true&rank_icon=github" style="max-width:100%;height:auto;" />
+## 📊 GitHub 数据统计
+<p align="center">
+  <!-- 1. GitHub 综合统计 + 贡献者统计（替换为自部署域名，等宽显示） -->
+  <table style="width:90%; border:none;">
+    <tr style="border:none;">
+      <td align="center" valign="middle" style="width:50%; border:none; padding:5px;">
+        <img src="https://github-readme-stats-dun-eight-53.vercel.app/api?username=bitliyaowei&show_icons=true&include_all_commits=true&rank_icon=github" style="max-width:100%;height:auto;" />
       </td>
-      <td align="center" valign="top" colspan="2">
+      <td align="center" valign="middle" style="width:50%; border:none; padding:5px;">
+        <!-- 贡献者统计也替换为自部署域名（若不支持，可保留原域名，仅注释说明） -->
+        <img src="https://github-readme-stats-dun-eight-53.vercel.app/api/contributors?username=bitliyaowei" style="max-width:100%;height:auto;" />
+        <!-- 若上述贡献者卡片加载失败，替换回原域名：
         <img src="https://github-contributor-stats.vercel.app/api?username=bitliyaowei" style="max-width:100%;height:auto;" />
+        -->
       </td>
     </tr>
   </table>
 
-  <h4>📅 weekly development breakdown</h4>
+  <br>
+
+  ![Top Languages](https://github-readme-stats-dun-eight-53.vercel.app/api/top-langs/?username=bitliyaowei)
+  <br>
+
+  <!-- 3. WakaTime 周开发统计（自部署域名 + 保留自动更新标记） -->
+  ### 📅 weekly development breakdown
+  ![WakaTime Stats](https://github-readme-stats-dun-eight-53.vercel.app/api/wakatime?username=bitliyaowei)
+  <br>
+  
   <!-- START_SECTION:waka -->
-  <div align="center">
-    <img src="https://img.shields.io/badge/WakaTime-暂无统计数据-64748b?style=flat&logo=wakatime" alt="WakaTime统计" />
-    <p>💡 提示：安装WakaTime插件并编码后，此处会自动显示开发时长</p>
-  </div>
+  <img src="https://img.shields.io/badge/WakaTime-暂无统计数据-64748b?style=flat&logo=wakatime" alt="WakaTime统计" />
+  <br>
+  <small>💡 提示：安装WakaTime插件并编码后，此处会自动显示开发时长
+  <br>
+  📌 插件下载：<a href="https://wakatime.com/downloads" target="_blank">WakaTime官网</a> | 绑定GitHub：<a href="https://wakatime.com/settings/accounts" target="_blank">账号关联</a></small>
   <!-- END_SECTION:waka -->
-</div>
-
-### 📊 GitHub 数据统计
-<p align="center">
-<!-- 仅保留核心参数，和你成功的版本完全对齐 -->
-![Top Languages](https://github-readme-stats-dun-eight-53.vercel.app/api/top-langs/?username=bitliyaowei)
-<br>
-![Repo Card: bitliyaowei.github.io](https://github-readme-stats-dun-eight-53.vercel.app/api/pin/?username=bitliyaowei&repo=bitliyaowei.github.io)
-<br>
-![GitHub Stats (Dark)](https://github-readme-stats-dun-eight-53.vercel.app/api?username=bitliyaowei&theme=dark)
-<br>
-![WakaTime Stats](https://github-readme-stats-dun-eight-53.vercel.app/api/wakatime?username=bitliyaowei)
-<br>
-![GitHub Stats (Default)](https://github-readme-stats-dun-eight-53.vercel.app/api?username=bitliyaowei&theme=default&show_icons=true&hide_border=true&count_private=true)
-<br>
-[![Peter's GitHub Stats](https://github-readme-stats-dun-eight-53.vercel.app/api?username=bitliyaowei)](https://github.com/bitliyaowei/github-readme-stats)
-
-<small>💡 WakaTime无数据？需先绑定WakaTime账号并开启统计</small>
-<br>
-<small style="color:#94a3b8;">若卡片未显示：检查Vercel部署状态或GitHub PAT令牌配置</small>
 </p>
-
-### 📊 GitHub 数据统计
-
-> 基于自部署的 github-readme-stats 生成，数据实时更新
->
-<p align="center">
-<!-- 常用编程语言统计 -->
-![Top Languages](https://github-readme-stats-dun-eight-53.vercel.app/api/top-langs/?username=bitliyaowei&langs_count=6&theme=tokyonight&hide_border=true&cache_seconds=1800)
-<br>
-<!-- 核心开源项目卡片 -->
-![Repo Card: bitliyaowei.github.io](https://github-readme-stats-dun-eight-53.vercel.app/api/pin/?username=bitliyaowei&repo=bitliyaowei.github.io&theme=tokyonight&hide_border=true&cache_seconds=1800)
-<br>
-<!-- GitHub 综合统计（保留最全参数，删除重复项） -->
-![GitHub Stats](https://github-readme-stats-dun-eight-53.vercel.app/api?username=bitliyaowei&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&cache_seconds=1800)
-<br>
-<!-- WakaTime 代码时长统计 -->
-![WakaTime Stats](https://github-readme-stats-dun-eight-53.vercel.app/api/wakatime?username=bitliyaowei&theme=tokyonight&hide_border=true&cache_seconds=1800)
-
-<small>💡 WakaTime无数据？需先绑定WakaTime账号并开启统计</small>
-<br>
-<small style="color:#94a3b8;">若卡片未显示：检查Vercel部署状态或GitHub PAT令牌配置</small>
-</p>
-
-### Github 状态图
-
-<!-- 替换为你自己部署的主域名，100% 能加载 -->
-![Top Langs](https://github-readme-stats-dun-eight-53.vercel.app/api/top-langs/?username=bitliyaowei)
-![Repo Card](https://github-readme-stats-dun-eight-53.vercel.app/api/pin/?username=bitliyaowei&repo=bitliyaowei.github.io)
-![GitHub stats](https://github-readme-stats-dun-eight-53.vercel.app/api?username=bitliyaowei&theme=dark&cache_seconds=1800)
-![wakatime stats](https://github-readme-stats-dun-eight-53.vercel.app/api/wakatime?username=bitliyaowei)
-
-![GitHub Stats](https://github-readme-stats-dun-eight-53.vercel.app/api?username=bitliyaowei&theme=default&show_icons=true&hide_border=true&count_private=true)
-[![Peter's github stats](https://github-readme-stats-dun-eight-53.vercel.app/api?username=bitliyaowei)](https://github.com/bitliyaowei/github-readme-stats)
 
 ### 🐍 贡献可视化
 

@@ -64,6 +64,7 @@
 </div>
 
 ### 📌 开源项目
+
 [![blog](https://github-readme-stats.vercel.app/api/pin/?username=bitliyaowei&repo=bitliyaowei.github.io&theme=tokyonight)](https://github.com/bitliyaowei/bitliyaowei.github.io)
 <br>
 
@@ -71,6 +72,7 @@
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bitliyaowei&langs_count=6&theme=tokyonight) -->
 
 ## 📈 Statistics
+
 <div align="center">
   <table style="width:90%;">
     <tr>
@@ -93,15 +95,18 @@
 </div>
 
 ### Github 状态图
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bitliyaowei)
-![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=bitliyaowei&repo=bitliyaowei.github.io)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=bitliyaowei&theme=dark&cache_seconds=1800)
-![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=bitliyaowei)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bitliyaowei&theme=default&show_icons=true&hide_border=true&count_private=true)
- [![Peter's github stats](https://github-readme-stats.vercel.app/api?username=bitliyaowei)](https://github.com/bitliyaowei/github-readme-stats)
+<!-- 替换为你自己部署的主域名，100% 能加载 -->
+![Top Langs](https://github-readme-stats-dun-eight-53.vercel.app/api/top-langs/?username=bitliyaowei)
+![Repo Card](https://github-readme-stats-dun-eight-53.vercel.app/api/pin/?username=bitliyaowei&repo=bitliyaowei.github.io)
+![GitHub stats](https://github-readme-stats-dun-eight-53.vercel.app/api?username=bitliyaowei&theme=dark&cache_seconds=1800)
+![wakatime stats](https://github-readme-stats-dun-eight-53.vercel.app/api/wakatime?username=bitliyaowei)
+
+![GitHub Stats](https://github-readme-stats-dun-eight-53.vercel.app/api?username=bitliyaowei&theme=default&show_icons=true&hide_border=true&count_private=true)
+[![Peter's github stats](https://github-readme-stats-dun-eight-53.vercel.app/api?username=bitliyaowei)](https://github.com/bitliyaowei/github-readme-stats)
 
 ### 🐍 贡献可视化
+
 <p align="center">
   <!-- 保留你能正常使用的原链接，仅优化样式 -->
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
@@ -110,8 +115,8 @@
          style="max-width:90%;height:auto;margin-bottom:20px;" />
   </a>
 
-  <!-- 贡献贪吃蛇：优化排版+自适应+失效提示 -->
-  <h4 style="margin:10px 0;">🎨 贡献贪吃蛇</h4>
+<h4 style="margin:10px 0; text-align:center;">🎨 贡献贪吃蛇</h4>
+<p align="center">
   <picture style="max-width:90%;">
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bitliyaowei/bitliyaowei/main/assets/github-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bitliyaowei/bitliyaowei/main/assets/github-snake-light.svg">
@@ -119,9 +124,6 @@
          src="https://raw.githubusercontent.com/bitliyaowei/bitliyaowei/main/assets/github-snake-light.svg" 
          style="max-width:100%;height:auto;" />
   </picture>
-  
-  <!-- 贪吃蛇失效友好提示 -->
-  <small style="color:#64748b;">💡 若贪吃蛇未显示：请在仓库assets目录上传github-snake-dark/light.svg</small>
 </p>
 
 ### ☕ 支持作者

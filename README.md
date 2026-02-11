@@ -89,7 +89,7 @@
 
 <br>
 
-<div align="center"><img src="https://raw.githubusercontent.com/bitliyaowei/bitliyaowei/main/assets/github-contribution-grid-snake.svg" ></div>
+<div align="center"><img src="https://github.com/bitliyaowei/bitliyaowei/main/assets/github-contribution-grid-snake.svg" ></div>
 
 ### 投喂作者🍭🍭🍭
 

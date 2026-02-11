@@ -1,6 +1,6 @@
 <img align="right" src="https://count.getloli.com/@:bitliyaowei?theme=moebooru&darkmode=auto">
 
-## Peter🥝 <img src="https://emojis.slackmojis.com/emojis/images/1588866973/8934/hellokittydance.gif?1588866973" alt="Hi" width="42" /> 
+## Peter🥝 <img src="images/cat.gif" alt="Hi" width="42" /> 
 
 <!-- 访客计数器 & 多平台状态徽章 -->
 <p align="left" style="display:flex; flex-wrap:wrap; gap:8px; align-items:center;">
@@ -33,10 +33,10 @@
   </a>
 </p>
 
-### 👨‍💻 自我介绍 <img src="https://cdn.jiler.cn/techug/uploads/2017/07/image.php_-38.gif" alt="Hi" width="60" /> 
+### 👨‍💻 自我介绍 <img src="images/code.gif" alt="Hi" width="60" /> 
 
 <div>
-  <img align="right" alt="GIF" src="https://img-blog.csdnimg.cn/img_convert/2bf03a48c680a4d3da5d08f280b45d7e.gif" width="300" style="max-width:100%;height:auto;" />
+  <img align="right" alt="GIF" src="images/kiss.gif" width="300" style="max-width:100%;height:auto;" />
 </div>
 
 - 大家好，我是Peter🥝，来自江西丰城

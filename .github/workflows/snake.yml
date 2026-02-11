@@ -13,24 +13,26 @@ jobs:
       - name: Checkout Repository
         uses: actions/checkout@v4
 
-      # 2. 核心步骤：生成贪吃蛇动画（SVG+GIF双格式）
+      # 2. 核心步骤：生成贪吃蛇动画（双SVG格式，适配深色/浅色自动切换）
       - name: Generate Snake Animation
         uses: Platane/snk@main
         with:
           # 你的 GitHub 用户名（固定为 bitliyaowei）
           github_user_name: bitliyaowei
-          # 输出文件路径 + 样式配置（生成到 assets 文件夹，适配深色/浅色模式）
+          # 输出文件路径 + 自定义样式配置（重点修改部分）
           outputs: |
-            assets/github-snake-dark.svg?palette=github-dark
-            assets/github-snake-light.gif?palette=github-light&color_snake=orange
+            # 深色模式SVG：自定义蛇色（紫色）+ 适配深色的贡献点 + 更快的动画
+            assets/github-snake-dark.svg?palette=github-dark&color_snake=#9c27b0&color_dots=#2d3748,#4a5568,#718096,#a0aec0,#cbd5e0&stepDurationMs=80
+            # 浅色模式SVG：自定义蛇色（橙色）+ 适配浅色的贡献点 + 默认动画速度（原GIF改为SVG）
+            assets/github-snake-light.svg?palette=github-light&color_snake=orange&color_dots=#eee,#9be9a8,#40c463,#30a14e,#216e39&stepDurationMs=100
 
       # 3. 自动提交生成的文件到你的仓库
       - name: Commit and Push
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          # 只提交生成的贪吃蛇文件
+          # 只提交生成的贪吃蛇SVG文件
           file_pattern: assets/github-snake-*
           # 提交说明（可自定义）
           commit_message: "Update GitHub snake animation [skip ci]"
-          # 分支名（你的主页仓库默认是 main 或 master，这里用 main）
+          # 分支名（确认你的仓库主分支是main，若为master可修改）
           branch: main

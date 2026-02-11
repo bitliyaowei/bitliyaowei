@@ -2,15 +2,28 @@ name: Waka Readme
 
 on:
   schedule:
-    # Runs at 12am IST
+    # 原定时规则（IST 12am）保留，如需适配北京时间可改为 cron: '0 0 * * *'（北京时间0点）
     - cron: '30 18 * * *'
-  workflow_dispatch:
+  workflow_dispatch: # 保留手动触发
+
 jobs:
   update-readme:
     name: Update Readme with Metrics
     runs-on: ubuntu-latest
+    # 核心修复：添加最小权限（确保能写入README）
+    permissions:
+      contents: write
+    # 核心优化：添加超时限制（5分钟），避免挂起
+    timeout-minutes: 5
     steps:
-      - uses: anmol098/waka-readme-stats@master
+      # 优化：锁定Action版本（@v3，稳定版），而非master分支
+      - uses: anmol098/waka-readme-stats@v3
         with:
+          # 仅保留必要参数：WakaTime API密钥（必须）
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          GH_TOKEN: ${{ secrets.GH_ACCESS_TOKEN }}
+          # 可选：添加常用自定义参数（提升展示效果，按需调整）
+          SHOW_OS: true          # 显示使用的操作系统统计
+          SHOW_EDITORS: true     # 显示使用的编辑器统计
+          SHOW_LANGUAGES: true   # 显示语言统计（默认开启）
+          LANGUAGE_COUNT: 8      # 展示前8种语言（默认5种）
+          TIME_RANGE: last_7_days # 统计近7天（可选last_30_days/all_time）

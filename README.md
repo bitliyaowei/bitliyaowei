@@ -2,6 +2,10 @@
 
 ## Peter🥝 <img src="https://emojis.slackmojis.com/emojis/images/1588866973/8934/hellokittydance.gif?1588866973" alt="Hi" width="42" /> 
 
+<!-- 访客计数器 -->
+<a title="Hits" target="_blank" href="https://github.com/bitliyaowei/bitliyaowei"><img src="https://hits.b3log.org/bitliyaowei/bitliyaowei.svg" ></a><a title="GitHub" target="_blank" href="https://github.com/bitliyaowei"><img src="https://img.shields.io/badge/dynamic/json?label=GitHub&suffix=%20followers&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Dbitliyaowei&labelColor=282c34&color=353940&logo=github&longCache=true" ></a><a title="Bilibili" target="_blank" href="https://space.bilibili.com/1671965320"><img src="https://img.shields.io/badge/dynamic/json?color=353940&labelColor=f27596&label=Bilibili&suffix=%20followers&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dbilibili%26queryKey%3D1671965320&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGAAAABgCAYAAADimHc4AAAD7ElEQVR4nO2dW9WrMBCFK6ESkFAJSKiESqgEHCABCZWAhEpAAhL2ecik5dDc/pXLBDLfWnlqy0xmJ5BMQnq5CIIgCIIgCIIgCIIgCEIBAHQAemYfrgCunD6wAKAHsEKxALgx+bCQD8/S9tmgVqeDr1lLigDgZvDhXso+K9TyTBQRwRJ8AHjntl0Flh5QRAQK/mKxPeayWx2OXpBNBKiHvi34b7T2MC4pAvW6twR/RwkRKPizBN8CgEcuESj4Lwm+BwBjahEk+H8EwJRKhOaCDzW8e1JLfkUUH1NgmR3XmHffHR1l+72BSs8d7w8U+JDAnZERQMcV+CtUi7dNqFqibB4J7vtrq7xKCuAasbTMXCL4T+5aVk6+2xHUrWdhruAR6HIJcOeu2UHI8zyAe2ytWfEdWz9PVvQ8YAmIQ5dDAB9LFsMVAv8oMO2zAGrC5WNIarRiAuKR9jYEd9pY08aa6uUzIHGRdkgKd8pY0yc1WjEBAqypDYoAG0QAZkQAZkQAZkQAZk4vANQenjsSzS3I/wcSbXU5jQBUkRtdf4Rar90v8kSv3+I3ffCCSpk8I/w+lgDkdI/v2rEp2CaiWm1AsDQLlDAD+dlFXLMeAaCSeLZdaSFE5VUQNot38cKuEeBgAsSuG0flVZBmEanbXfNQAsS0fgBYIn2fIu3/BBMHEyBmDXlFfA8IzeHb+Ems4WAChKykrVA9ZfsQTL57jXzRg4A5wC/A8N4ADiZAZwm2XjW75Qh2KOTfA0p4kygPw28OJcCVgn3nDnYo2EwEYRgGH0qAMyICMCMCMCMCMCMCMCMCMCMCfP3qwHDOQ4AAUekTk8FaBRihJnZdYbvtCGC7LvmkM63GjVDINPFrQgCq5ETXfmMzI90FXzPvfqt7x4rEu/ZaEcCUxFvgz2zO+BUn6UkoaEEAsptiMSX5e8FoRYCN7cVgb4Vq7U/H50Pq4JNP7Qiw8UFnJwcK+tXy+Wj6PLEvPgHSHv5UgwA1IQIwwyFAyLJin9RoxYgAzAQIkPwNmf26busC+OIx5TDqo5nDT+F/SS/9CYzwb+No49zNy2evkYv0LywGGAXUvp6eSneycqOic0w20k7CNgKE7jJunSGLACTCxF27ylmQc98T5MQUH49swd+I0HPXslLKnT0N+wnkrTKi9JZL/L9i1SorMmdeQ4TQQ7OFMxIMzGD45w8nUL1im7efENZLJpgPSw0pfz0cdt4U3230Td/Tvx2R6d2FrHhEWLkq5PELOMsRPHCPnAZGv1xJteL7jbJiaW3sB2nDvPC/osSYvjRQz4cJ6n7KO3rYQL7M+L6nVtfDVRAEQRAEQRAEQRAEIZ5/SAXmdfXaoQsAAAAASUVORK5CYII=&longCache=true" ></a><a title="LeetCode" target="_blank" href="https://leetcode.cn/u/bitliyaowei/"><img src="https://img.shields.io/badge/LeetCode-刷题中-009688?style=flat&labelColor=009688&logo=leetcode&logoColor=white&longCache=true" ></a><a title="CSDN" target="_blank" href="https://blog.csdn.net/qq_74204532">
+
+
 ### 👨‍💻 自我介绍 <img src="https://cdn.jiler.cn/techug/uploads/2017/07/image.php_-38.gif" alt="Hi" width="42" /> 
 
 <div><img align="right" alt="GIF" src="https://img-blog.csdnimg.cn/img_convert/2bf03a48c680a4d3da5d08f280b45d7e.gif" width="300" height="100%" /></div>
@@ -26,47 +30,27 @@
 - <a href="https://leetcode.cn/u/bitliyaowei/"><img height="22" width="22" src="https://leetcode.cn/favicon.ico"></a>：LeetCode主页
 - <a href="https://blog.csdn.net/qq_74204532"><img height="22" width="22" src="https://blog.csdn.net/favicon.ico"></a>：CSDN主页
 
-## 📺Social
-
-<table>
-<tbody>
-   <tr>
-       <td  valign="top" width="50%">
-
-### 📝<a href="https://bitliyaowei.github.io/" target="_blank">Recent Blog</a>
-
-<!-- START_SECTION:blog -->
-
-<!-- END_SECTION:blog -->
-</td>
-       <td  valign="top" width="50%">
-
-### 🎥 <a href="https://space.bilibili.com/1671965320" target="_blank">Bilibili</a>
-
-<!-- START_SECTION:douban -->
-
-<!-- END_SECTION:douban -->
-</td>
-        </tr>
-</tbody>
-</table>
 
 ### 🛠️ 技术栈
-![C#](https://img.shields.io/badge/-C%20Sharp-%23239120?style=flat&logo=C%20Sharp)
-![C语言](https://img.shields.io/badge/-C%E8%AF%AD%E8%A8%80-%2313c9ae?style=flat&logo=C&logoColor=ffffff)
-![Java](https://img.shields.io/badge/-Java-%23972fcd?style=flat&logo=OPENJDK)
-![ARM](https://img.shields.io/badge/-ARM-%23c9e735?style=flat&logo=ARM&logoColor=242424)
-![Linux](https://img.shields.io/badge/-Linux-%23fcc624?style=flat&logo=Linux&logoColor=242424)
-![PUG](https://img.shields.io/badge/-Pug-%23a86454?style=flat&logo=PUG&logoColor=ffffff)
-![HTML5](https://img.shields.io/badge/-HTML5-%23E34C26?style=flat&logo=html5&logoColor=ffffff)
-![Hexo](https://img.shields.io/badge/-Hexo-%230e83cd?style=flat&logo=Hexo&logoColor=ffffff)\
-![CSS3](https://img.shields.io/badge/-CSS3-%23197CBE?style=flat&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat&logo=javascript&logoColor=000000&labelColor=%23ECD83E&color=%23ECD83E)
-![Node.js](https://img.shields.io/badge/-Node.js-%23579050?style=flat&logo=node.js&logoColor=ffffff)
-![Shell](https://img.shields.io/badge/-Shell-%2389E051?style=flat&logo=powershell&logoColor=ffffff)
-![Git](https://img.shields.io/badge/-Git-%23ED5A47?style=flat&logo=git&logoColor=%23ffffff)
-![VS Code](https://img.shields.io/badge/-VSCode-%230066B8?style=flat&logo=visual-studio-code)
 
+#### 🔤 编程语言
+![C#](https://img.shields.io/badge/-C%20Sharp-%23239120?style=flat&logo=C%20Sharp&logoColor=white)
+![C](https://img.shields.io/badge/-C-%2313c9ae?style=flat&logo=C&logoColor=ffffff)
+![Java](https://img.shields.io/badge/-Java-%23972fcd?style=flat&logo=openjdk&logoColor=ffffff)
+
+#### 🖥️ 前端 & 框架
+![HTML5](https://img.shields.io/badge/-HTML5-%23E34C26?style=flat&logo=html5&logoColor=ffffff)
+![CSS3](https://img.shields.io/badge/-CSS3-%23197CBE?style=flat&logo=css3&logoColor=ffffff)
+![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat&logo=javascript&logoColor=000)
+![PUG](https://img.shields.io/badge/-Pug-%23a86454?style=flat&logo=pug&logoColor=ffffff)
+![Hexo](https://img.shields.io/badge/-Hexo-%230e83cd?style=flat&logo=hexo&logoColor=ffffff)
+![Node.js](https://img.shields.io/badge/-Node.js-%23579050?style=flat&logo=node.js&logoColor=ffffff)
+
+#### 🔧 开发工具 & 环境
+![Linux](https://img.shields.io/badge/-Linux-%23fcc624?style=flat&logo=linux&logoColor=242424)
+![Shell](https://img.shields.io/badge/-Shell-%2389E051?style=flat&logo=gnu-bash&logoColor=ffffff)
+![Git](https://img.shields.io/badge/-Git-%23ED5A47?style=flat&logo=git&logoColor=ffffff)
+![VS Code](https://img.shields.io/badge/-VSCode-%230066B8?style=flat&logo=visual-studio-code&logoColor=ffffff)
 
 ### 📌 开源项目
 [![blog](https://github-readme-stats.vercel.app/api/pin/?username=bitliyaowei&repo=bitliyaowei.github.io&theme=tokyonight)](https://github.com/bitliyaowei/bitliyaowei.github.io)
@@ -123,7 +107,7 @@
 
 <div align="center">
   <img src="images/WeChat_payment_code.png" alt="微信赞赏码" width="280">&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="images/Alipay_payment_code.png" alt="支付宝赞赏码" width="280">
+  <img src="images/Alipay_payment_code.jpg" alt="支付宝赞赏码" width="280">
   <br><br>
   <img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="投喂作者🍭" style="height: 40px; width: 145px;">
 </div>

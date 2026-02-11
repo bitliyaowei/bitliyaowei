@@ -77,7 +77,12 @@
 
 <br>
 
-<div align="center"><img src="https://raw.githubusercontent.com/bitliyaowei/bitliyaowei/main/assets/github-contribution-grid-snake.svg" ></div>
+<div align="center">
+  <!-- 深色模式 SVG（带动画，浏览器中动起来） -->
+  <img src="https://raw.githubusercontent.com/bitliyaowei/bitliyaowei/main/assets/github-snake-dark.svg" width="800"/>
+  <!-- 可选：浅色模式 GIF（无环境限制，静态动画） -->
+  <!-- <img src="https://raw.githubusercontent.com/bitliyaowei/bitliyaowei/main/assets/github-snake-light.gif" width="800"/> -->
+</div>
 
 ### ☕ 支持作者
 

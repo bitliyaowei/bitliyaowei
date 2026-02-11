@@ -121,6 +121,6 @@
 
 开源不等于免费，我开源的目的是分享与交流学习，而不是免费给别人打工。开源的代码和插件、软件，首先都是写给自己用，顺道分享出来的，而不是为了给别人用而写。个人时间和精力有限，我不会免费帮忙实现用户提的各种功能请求、免费帮别人答疑解惑，在优先考虑个人需求的前提下，再考虑赞赏用户的使用答疑、功能建议。
 
-<a href="" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="投喂作者🍭" style="height: 40px !important;width: 145px !important;" ></a>
+<a href="images/payment_code.png" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="投喂作者🍭" style="height: 40px !important;width: 145px !important;" ></a>
 
 <br>

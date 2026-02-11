@@ -26,6 +26,31 @@
 - <a href="https://leetcode.cn/u/bitliyaowei/"><img height="22" width="22" src="https://leetcode.cn/favicon.ico"></a>：LeetCode主页
 - <a href="https://blog.csdn.net/qq_74204532"><img height="22" width="22" src="https://blog.csdn.net/favicon.ico"></a>：CSDN主页
 
+## 📺Social
+
+<table>
+<tbody>
+   <tr>
+       <td  valign="top" width="50%">
+
+### 📝<a href="https://achuan-2.github.io/" target="_blank">Recent Blog</a>
+
+<!-- START_SECTION:blog -->
+
+<!-- END_SECTION:blog -->
+</td>
+       <td  valign="top" width="50%">
+
+### 🎥 <a href="https://www.douban.com/people/sjx270992395/" target="_blank">Douban</a>
+
+<!-- START_SECTION:douban -->
+
+<!-- END_SECTION:douban -->
+</td>
+        </tr>
+</tbody>
+</table>
+
 ### 🛠️ 技术栈
 ![C#](https://img.shields.io/badge/-C%20Sharp-%23239120?style=flat&logo=C%20Sharp)
 ![C语言](https://img.shields.io/badge/-C%E8%AF%AD%E8%A8%80-%2313c9ae?style=flat&logo=C&logoColor=ffffff)

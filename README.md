@@ -78,12 +78,16 @@
 <br>
 
 <picture>
-  <!-- 系统深色模式：加载你自定义的深色款贪吃蛇 -->
+  <!-- 系统深色模式时，加载自定义深色款贪吃蛇SVG -->
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bitliyaowei/bitliyaowei/main/assets/github-snake-dark.svg">
-  <!-- 系统浅色模式：加载你自定义的浅色款贪吃蛇 -->
+  <!-- 系统浅色模式时，加载自定义浅色款贪吃蛇SVG -->
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bitliyaowei/bitliyaowei/main/assets/github-snake-light.svg">
-  <!-- 兜底显示：浅色款 -->
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/bitliyaowei/bitliyaowei/main/assets/github-snake-light.svg" width="800">
+  <!-- 兜底图片：兼容不支持prefers-color-scheme的浏览器，默认显示浅色款 -->
+  <img 
+    alt="github contribution grid snake animation" 
+    src="https://raw.githubusercontent.com/bitliyaowei/bitliyaowei/main/assets/github-snake-light.svg" 
+    width="800"  <!-- 控制贪吃蛇动画的显示宽度，适配README排版 -->
+  >
 </picture>
 
 ### ☕ 支持作者

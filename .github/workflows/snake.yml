@@ -1,0 +1,36 @@
+name: Generate GitHub Snake Animation
+# 触发规则：每天凌晨自动更新 + 手动触发
+on:
+  schedule:
+    - cron: "0 0 * * *"  # UTC 时间每天0点更新（对应北京时间8点）
+  workflow_dispatch:     # 允许手动触发更新
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      # 1. 检出你的仓库代码
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      # 2. 核心步骤：生成贪吃蛇动画（SVG+GIF双格式）
+      - name: Generate Snake Animation
+        uses: Platane/snk@main
+        with:
+          # 你的 GitHub 用户名（固定为 bitliyaowei）
+          github_user_name: bitliyaowei
+          # 输出文件路径 + 样式配置（生成到 assets 文件夹，适配深色/浅色模式）
+          outputs: |
+            assets/github-snake-dark.svg?palette=github-dark
+            assets/github-snake-light.gif?palette=github-light&color_snake=orange
+
+      # 3. 自动提交生成的文件到你的仓库
+      - name: Commit and Push
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          # 只提交生成的贪吃蛇文件
+          file_pattern: assets/github-snake-*
+          # 提交说明（可自定义）
+          commit_message: "Update GitHub snake animation [skip ci]"
+          # 分支名（你的主页仓库默认是 main 或 master，这里用 main）
+          branch: main

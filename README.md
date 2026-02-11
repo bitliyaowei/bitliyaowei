@@ -2,15 +2,42 @@
 
 ## Peter🥝 <img src="https://emojis.slackmojis.com/emojis/images/1588866973/8934/hellokittydance.gif?1588866973" alt="Hi" width="42" /> 
 
-<!-- 访客计数器 -->
-<p align="left">
-  <a title="Hits" target="_blank" href="https://github.com/bitliyaowei/bitliyaowei"><img src="https://hits.b3log.org/bitliyaowei/bitliyaowei.svg" ></a>
-  <a title="GitHub" target="_blank" href="https://github.com/bitliyaowei"><img src="https://img.shields.io/badge/dynamic/json?label=GitHub&suffix=%20followers&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Dbitliyaowei&labelColor=282c34&color=353940&logo=github&longCache=true" ></a>
-  <a title="Bilibili" target="_blank" href="https://space.bilibili.com/1671965320"><img src="https://img.shields.io/badge/dynamic/json?color=353940&labelColor=f27596&label=Bilibili&suffix=%20followers&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dbilibili%26queryKey%3D1671965320&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGAAAABgCAYAAADimHc4AAAD7ElEQVR4nO2dW9WrMBCFK6ESkFAJSKiESqgEHCABCZWAhEpAAhL2ecik5dDc/pXLBDLfWnlqy0xmJ5BMQnq5CIIgCIIgCIIgCIIgCEIBAHQAemYfrgCunD6wAKAHsEKxALgx+bCQD8/S9tmgVqeDr1lLigDgZvDhXso+K9TyTBQRwRJ8AHjntl0Flh5QRAQK/mKxPeayWx2OXpBNBKiHvi34b7T2MC4pAvW6twR/RwkRKPizBN8CgEcuESj4Lwm+BwBjahEk+H8EwJRKhOaCDzW8e1JLfkUUH1NgmR3XmHffHR1l+72BSs8d7w8U+JDAnZERQMcV+CtUi7dNqFqibB4J7vtrq7xKCuAasbTMXCL4T+5aVk6+2xHUrWdhruAR6HIJcOeu2UHI8zyAe2ytWfEdWz9PVvQ8YAmIQ5dDAB9LFsMVAv8oMO2zAGrC5WNIarRiAuKR9jYEd9pY08aa6uUzIHGRdkgKd8pY0yc1WjEBAqypDYoAG0QAZkQAZkQAZkQAZk4vANQenjsSzS3I/wcSbXU5jQBUkRtdf4Rar90v8kSv3+I3ffCCSpk8I/w+lgDkdI/v2rEp2CaiWm1AsDQLlDAD+dlFXLMeAaCSeLZdaSFE5VUQNot38cKuEeBgAsSuG0flVZBmEanbXfNQAsS0fgBYIn2fIu3/BBMHEyBmDXlFfA8IzeHb+Ems4WAChKykrVA9ZfsQTL57jXzRg4A5wC/A8N4ADiZAZwm2XjW75Qh2KOTfA0p4kygPw28OJcCVgn3nDnYo2EwEYRgGH0qAMyICMCMCMCMCMCMCMCMCMCMCfP3qwHDOQ4AAUekTk8FaBRihJnZdYbvtCGC7LvmkM63GjVDINPFrQgCq5ETXfmMzI90FXzPvfqt7x4rEu/ZaEcCUxFvgz2zO+BUn6UkoaEEAsptiMSX5e8FoRYCN7cVgb4Vq7U/H50Pq4JNP7Qiw8UFnJwcK+tXy+Wj6PLEvPgHSHv5UgwA1IQIwwyFAyLJin9RoxYgAzAQIkPwNmf26busC+OIx5TDqo5nDT+F/SS/9CYzwb+No49zNy2evkYv0LywGGAXUvp6eSneycqOic0w20k7CNgKE7jJunSGLACTCxF27ylmQc98T5MQUH49swd+I0HPXslLKnT0N+wnkrTKi9JZL/L9i1SorMmdeQ4TQQ7OFMxIMzGD45w8nUL1im7efENZLJpgPSw0pfz0cdt4U3230Td/Tvx2R6d2FrHhEWLkq5PELOMsRPHCPnAZGv1xJteL7jbJiaW3sB2nDvPC/osSYvjRQz4cJ6n7KO3rYQL7M+L6nVtfDVRAEQRAEQRAEQRAEIZ5/SAXmdfXaoQsAAAAASUVORK5CYII=&longCache=true" ></a>
-  <a title="LeetCode" target="_blank" href="https://leetcode.cn/u/bitliyaowei/"><img src="https://img.shields.io/badge/LeetCode-刷题中-009688?style=flat&logo=leetcode&logoColor=white&longCache=true" ></a>
+<!-- 访客计数器 & 多平台状态徽章 -->
+<p align="left" style="display:flex; flex-wrap:wrap; gap:8px; align-items:center;">
+  <!-- 访客访问量统计 -->
+  <a title="访问量统计" target="_blank" href="https://github.com/bitliyaowei/bitliyaowei">
+    <img src="https://hits.b3log.org/bitliyaowei/bitliyaowei.svg" 
+         alt="GitHub访客计数器" 
+         style="height:20px; vertical-align:middle;" />
+  </a>
+  
+  <!-- GitHub粉丝数 -->
+  <a title="GitHub粉丝数" target="_blank" href="https://github.com/bitliyaowei">
+    <img src="https://img.shields.io/badge/dynamic/json?label=GitHub&suffix=%20followers&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Dbitliyaowei&labelColor=282c34&color=353940&logo=github&style=flat&longCache=true" 
+         alt="GitHub粉丝数" 
+         style="height:20px; vertical-align:middle;" />
+  </a>
+  
+  <!-- Bilibili粉丝数 -->
+  <a title="B站粉丝数" target="_blank" href="https://space.bilibili.com/1671965320">
+    <img src="https://img.shields.io/badge/dynamic/json?color=353940&labelColor=f27596&label=Bilibili&suffix=%20followers&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dbilibili%26queryKey%3D1671965320&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGAAAABgCAYAAADimHc4AAAD7ElEQVR4nO2dW9WrMBCFK6ESkFAJSKiESqgEHCABCZWAhEpAAhL2ecik5dDc/pXLBDLfWnlqy0xmJ5BMQnq5CIIgCIIgCIIgCIIgCEIBAHQAemYfrgCunD6wAKAHsEKxALgx+bCQD8/S9tmgVqeDr1lLigDgZvDhXso+K9TyTBQRwRJ8AHjntl0Flh5QRAQK/mKxPeayWx2OXpBNBKiHvi34b7T2MC4pAvW6twR/RwkRKPizBN8CgEcuESj4Lwm+BwBjahEk+H8EwJRKhOaCDzW8e1JLfkUUH1NgmR3XmHffHR1l+72BSs8d7w8U+JDAnZERQMcV+CtUi7dNqFqibB4J7vtrq7xKCuAasbTMXCL4T+5aVk6+2xHUrWdhruAR6HIJcOeu2UHI8zyAe2ytWfEdWz9PVvQ8YAmIQ5dDAB9LFsMVAv8oMO2zAGrC5WNIarRiAuKR9jYEd9pY08aa6uUzIHGRdkgKd8pY0yc1WjEBAqypDYoAG0QAZkQAZkQAZkQAZk4vANQenjsSzS3I/wcSbXU5jQBUkRtdf4Rar90v8kSv3+I3ffCCSpk8I/w+lgDkdI/v2rEp2CaiWm1AsDQLlDAD+dlFXLMeAaCSeLZdaSFE5VUQNot38cKuEeBgAsSuG0flVZBmEanbXfNQAsS0fgBYIn2fIu3/BBMHEyBmDXlFfA8IzeHb+Ems4WAChKykrVA9ZfsQTL57jXzRg4A5wC/A8N4ADiZAZwm2XjW75Qh2KOTfA0p4kygPw28OJcCVgn3nDnYo2EwEYRgGH0qAMyICMCMCMCMCMCMCMCMCMCMCfP3qwHDOQ4AAUekTk8FaBRihJnZdYbvtCGC7LvmkM63GjVDINPFrQgCq5ETXfmMzI90FXzPvfqt7x4rEu/ZaEcCUxFvgz2zO+BUn6UkoaEEAsptiMSX5e8FoRYCN7cVgb4Vq7U/H50Pq4JNP7Qiw8UFnJwcK+tXy+Wj6PLEvPgHSHv5UgwA1IQIwwyFAyLJin9RoxYgAzAQIkPwNmf26busC+OIx5TDqo5nDT+F/SS/9CYzwb+No49zNy2evkYv0LywGGAXUvp6eSneycqOic0w20k7CNgKE7jJunSGLACTCxF27ylmQc98T5MQUH49swd+I0HPXslLKnT0N+wnkrTKi9JZL/L9i1SorMmdeQ4TQQ7OFMxIMzGD45w8nUL1im7efENZLJpgPSw0pfz0cdt4U3230Td/Tvx2R6d2FrHhEWLkq5PELOMsRPHCPnAZGv1xJteL7jbJiaW3sB2nDvPC/osSYvjRQz4cJ6n7KO3rYQL7M+L6nVtfDVRAEQRAEQRAEQRAEIZ5/SAXmdfXaoQsAAAAASUVORK5CYII=&style=flat&longCache=true" 
+         alt="B站粉丝数" 
+         style="height:20px; vertical-align:middle;" />
+  </a>
+  
+  <!-- LeetCode刷题状态 -->
+  <a title="LeetCode刷题主页" target="_blank" href="https://leetcode.cn/u/bitliyaowei/">
+    <img src="https://img.shields.io/badge/LeetCode-刷题中-009688?style=flat&logo=leetcode&logoColor=white&longCache=true" 
+         alt="LeetCode刷题状态" 
+         style="height:20px; vertical-align:middle;" />
+  </a>
+  <!-- WakaTime统计状态 -->
+  <img src="https://img.shields.io/badge/WakaTime-暂无统计数据-64748b?style=flat&logo=wakatime" 
+       alt="WakaTime统计" 
+       style="height:20px; vertical-align:middle;" />
 </p>
 
-### 👨‍💻 自我介绍 <img src="https://cdn.jiler.cn/techug/uploads/2017/07/image.php_-38.gif" alt="Hi" width="42" /> 
+### 👨‍💻 自我介绍 <img src="https://cdn.jiler.cn/techug/uploads/2017/07/image.php_-38.gif" alt="Hi" width="60" /> 
 
 <div>
   <img align="right" alt="GIF" src="https://img-blog.csdnimg.cn/img_convert/2bf03a48c680a4d3da5d08f280b45d7e.gif" width="300" style="max-width:100%;height:auto;" />
@@ -70,38 +97,48 @@
 
 ## 📊 GitHub 数据统计
 <p align="center">
-  <!-- 1. GitHub 综合统计 + 贡献者统计（替换为自部署域名，等宽显示） -->
-  <table style="width:90%; border:none;">
-    <tr style="border:none;">
-      <td align="center" valign="middle" style="width:50%; border:none; padding:5px;">
-        <img src="https://github-readme-stats-dun-eight-53.vercel.app/api?username=bitliyaowei&show_icons=true&include_all_commits=true&rank_icon=github" style="max-width:100%;height:auto;" />
-      </td>
-      <td align="center" valign="middle" style="width:50%; border:none; padding:5px;">
-        <!-- 贡献者统计也替换为自部署域名（若不支持，可保留原域名，仅注释说明） -->
-        <img src="https://github-readme-stats-dun-eight-53.vercel.app/api/contributors?username=bitliyaowei" style="max-width:100%;height:auto;" />
-        <!-- 若上述贡献者卡片加载失败，替换回原域名：
-        <img src="https://github-contributor-stats.vercel.app/api?username=bitliyaowei" style="max-width:100%;height:auto;" />
-        -->
-      </td>
-    </tr>
-  </table>
+
+<!-- GitHub 多维度统计卡片：两行两列等宽布局 -->
+<table style="width:90%; border:none; margin:0 auto;">
+  <!-- 第一行：综合统计 + 贡献者统计 -->
+  <tr style="border:none;">
+    <td align="center" valign="center" style="width:50%; border:none; padding:5px;">
+      <img 
+        src="https://github-readme-stats-dun-eight-53.vercel.app/api?username=bitliyaowei&show_icons=true&include_all_commits=true&rank_icon=github" 
+        alt="GitHub 综合统计"
+        style="max-width:100%; height:auto; object-fit:contain;" 
+      />
+    </td>
+    <td align="center" valign="center" style="width:50%; border:none; padding:5px;">
+      <img 
+        src="https://github-contributor-stats.vercel.app/api?username=bitliyaowei" 
+        alt="GitHub 贡献者统计"
+        style="max-width:100%; height:auto; object-fit:contain;" 
+      />
+    </td>
+  </tr>
+  <!-- 第二行：语言统计 + WakaTime 统计 -->
+  <tr style="border:none;">
+    <td align="center" valign="center" style="width:50%; border:none; padding:5px;">
+      <img 
+        src="https://github-readme-stats-dun-eight-53.vercel.app/api/top-langs/?username=bitliyaowei" 
+        alt="Top 编程语言统计"
+        style="max-width:100%; height:auto; object-fit:contain;" 
+      />
+    </td>
+    <td align="center" valign="center" style="width:50%; border:none; padding:5px;">
+      <img 
+        src="https://github-readme-stats-dun-eight-53.vercel.app/api/wakatime?username=bitliyaowei" 
+        alt="WakaTime 代码时长统计"
+        style="max-width:100%; height:auto; object-fit:contain;" 
+      />
+    </td>
+  </tr>
+</table>
 
   <br>
 
-  ![Top Languages](https://github-readme-stats-dun-eight-53.vercel.app/api/top-langs/?username=bitliyaowei)
-  <br>
-
-  <!-- 3. WakaTime 周开发统计（自部署域名 + 保留自动更新标记） -->
-  ### 📅 weekly development breakdown
-  ![WakaTime Stats](https://github-readme-stats-dun-eight-53.vercel.app/api/wakatime?username=bitliyaowei)
-  <br>
-  
   <!-- START_SECTION:waka -->
-  <img src="https://img.shields.io/badge/WakaTime-暂无统计数据-64748b?style=flat&logo=wakatime" alt="WakaTime统计" />
-  <br>
-  <small>💡 提示：安装WakaTime插件并编码后，此处会自动显示开发时长
-  <br>
-  📌 插件下载：<a href="https://wakatime.com/downloads" target="_blank">WakaTime官网</a> | 绑定GitHub：<a href="https://wakatime.com/settings/accounts" target="_blank">账号关联</a></small>
   <!-- END_SECTION:waka -->
 </p>
 

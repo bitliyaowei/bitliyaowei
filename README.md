@@ -25,14 +25,10 @@
  
 ### 社交主页
 
-
-
-- <a href="https://bitliyaowei.github.io/"><img height="22" width="22" src="https://www.fomal.cc/favicon.ico"></a>：个人网站，访问量
-- <a href="https://space.bilibili.com/220757832"><img height="22" width="22" src="https://www.bilibili.com/favicon.ico"></a>：Bilibili主页，播放量，粉丝累计
-- <a href="https://leetcode.cn/u/fomalhaut1998/"><img height="22" width="22" src="https://leetcode.cn/favicon.ico"></a>：LeetCode主页，粉丝累计
-
-
-
+- <a href="https://bitliyaowei.github.io/"><img height="22" width="22" src="https://www.fomal.cc/favicon.ico"></a>：个人网站
+- <a href="https://space.bilibili.com/1671965320"><img height="22" width="22" src="https://www.bilibili.com/favicon.ico"></a>：Bilibili主页
+- <a href="https://leetcode.cn/u/bitliyaowei/"><img height="22" width="22" src="https://leetcode.cn/favicon.ico"></a>：LeetCode主页
+- <a href="https://blog.csdn.net/qq_74204532"><img height="22" width="22" src="https://blog.csdn.net/favicon.ico"></a>：CSDN主页
 
 ### 技术栈
 ![C#](https://img.shields.io/badge/-C%20Sharp-%23239120?style=flat&logo=C%20Sharp)
@@ -88,6 +84,8 @@
 [![bitliyaowei's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=bitliyaowei&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <br>
+
+<div align="center"><img src="https://raw.githubusercontent.com/bitliyaowei/bitliyaowei/main/assets/github-contribution-grid-snake.svg" ></div>
 
 <div align="center"><img src="https://github.com/bitliyaowei/bitliyaowei/main/assets/github-contribution-grid-snake.svg" ></div>
 

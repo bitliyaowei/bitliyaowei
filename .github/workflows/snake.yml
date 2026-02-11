@@ -21,11 +21,10 @@ jobs:
           github_user_name: bitliyaowei
           # 输出文件路径 + 自定义样式配置（重点修改部分）
           outputs: |
-            # 深色模式SVG：自定义蛇色（紫色）+ 适配深色的贡献点 + 更快的动画
-            assets/github-snake-dark.svg?palette=github-dark&color_snake=#9c27b0&color_dots=#2d3748,#4a5568,#718096,#a0aec0,#cbd5e0&stepDurationMs=80
-            # 浅色模式SVG：自定义蛇色（橙色）+ 适配浅色的贡献点 + 默认动画速度（原GIF改为SVG）
-            assets/github-snake-light.svg?palette=github-light&color_snake=orange&color_dots=#eee,#9be9a8,#40c463,#30a14e,#216e39&stepDurationMs=100
-
+            # 深色模式SVG
+            assets/github-snake-dark.svg
+            # 浅色模式SVG
+            assets/github-snake-light.svg
       # 3. 自动提交生成的文件到你的仓库
       - name: Commit and Push
         uses: stefanzweifel/git-auto-commit-action@v5

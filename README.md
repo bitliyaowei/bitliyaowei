@@ -95,6 +95,26 @@
 </div>
 
 ### 📊 GitHub 数据统计
+<p align="center">
+<!-- 仅保留核心参数，和你成功的版本完全对齐 -->
+![Top Languages](https://github-readme-stats-dun-eight-53.vercel.app/api/top-langs/?username=bitliyaowei)
+<br>
+![Repo Card: bitliyaowei.github.io](https://github-readme-stats-dun-eight-53.vercel.app/api/pin/?username=bitliyaowei&repo=bitliyaowei.github.io)
+<br>
+![GitHub Stats (Dark)](https://github-readme-stats-dun-eight-53.vercel.app/api?username=bitliyaowei&theme=dark)
+<br>
+![WakaTime Stats](https://github-readme-stats-dun-eight-53.vercel.app/api/wakatime?username=bitliyaowei)
+<br>
+![GitHub Stats (Default)](https://github-readme-stats-dun-eight-53.vercel.app/api?username=bitliyaowei&theme=default&show_icons=true&hide_border=true&count_private=true)
+<br>
+[![Peter's GitHub Stats](https://github-readme-stats-dun-eight-53.vercel.app/api?username=bitliyaowei)](https://github.com/bitliyaowei/github-readme-stats)
+
+<small>💡 WakaTime无数据？需先绑定WakaTime账号并开启统计</small>
+<br>
+<small style="color:#94a3b8;">若卡片未显示：检查Vercel部署状态或GitHub PAT令牌配置</small>
+</p>
+
+### 📊 GitHub 数据统计
 
 > 基于自部署的 github-readme-stats 生成，数据实时更新
 >

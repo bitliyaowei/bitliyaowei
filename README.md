@@ -31,10 +31,6 @@
          alt="LeetCode刷题状态" 
          style="height:20px; vertical-align:middle;" />
   </a>
-  <!-- WakaTime统计状态 -->
-  <img src="https://img.shields.io/badge/WakaTime-暂无统计数据-64748b?style=flat&logo=wakatime" 
-       alt="WakaTime统计" 
-       style="height:20px; vertical-align:middle;" />
 </p>
 
 ### 👨‍💻 自我介绍 <img src="https://cdn.jiler.cn/techug/uploads/2017/07/image.php_-38.gif" alt="Hi" width="60" /> 

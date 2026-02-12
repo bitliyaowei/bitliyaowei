@@ -171,7 +171,7 @@
   <img src="images/WeChat_payment_code.png" alt="微信赞赏码" width="280">&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="images/Alipay_payment_code.jpg" alt="支付宝赞赏码" width="280">
   <br><br>
-  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="投喂作者🍭" style="height: 40px; width: 145px;">
+  <a href="https://bitliyaowei.github.io/personal/about/" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="投喂作者🍭" style="height: 40px; width: 145px;"></a>
 </div>
 
 ### 📄 开源协议

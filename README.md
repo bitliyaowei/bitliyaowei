@@ -105,27 +105,11 @@
         style="max-width:100%; height:auto; object-fit:contain;" 
       />
     </td>
-    <td align="center" valign="center" style="width:50%; border:none; padding:5px;">
-      <img 
-        src="https://github-contributor-stats.vercel.app/api?username=bitliyaowei" 
-        alt="GitHub 贡献者统计"
-        style="max-width:100%; height:auto; object-fit:contain;" 
-      />
-    </td>
-  </tr>
-  <!-- 第二行：语言统计 + WakaTime 统计 -->
-  <tr style="border:none;">
+
     <td align="center" valign="center" style="width:50%; border:none; padding:5px;">
       <img 
         src="https://github-readme-stats-dun-eight-53.vercel.app/api/top-langs/?username=bitliyaowei&langs_count=3" 
         alt="Top 编程语言统计"
-        style="max-width:100%; height:auto; object-fit:contain;" 
-      />
-    </td>
-    <td align="center" valign="center" style="width:50%; border:none; padding:5px;">
-      <img 
-        src="https://github-readme-stats-dun-eight-53.vercel.app/api/wakatime?username=bitliyaowei" 
-        alt="WakaTime 代码时长统计"
         style="max-width:100%; height:auto; object-fit:contain;" 
       />
     </td>

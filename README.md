@@ -93,8 +93,7 @@
 
 ## 📊 GitHub 数据统计
 <p align="center">
-
-<!-- GitHub 多维度统计卡片：两行两列等宽布局 -->
+<!-- GitHub 多维度统计卡片：一行两列等宽布局（优化版） -->
 <table style="width:90%; border:none; margin:0 auto;">
   <!-- 第一行：综合统计 + 贡献者统计 -->
   <tr style="border:none;">
@@ -106,7 +105,7 @@
       />
     </td>
 
-    <td align="center" valign="center" style="width:50%; border:none; padding:5px;">
+  <td>
       <img 
         src="https://github-readme-stats-dun-eight-53.vercel.app/api/top-langs/?username=bitliyaowei&langs_count=3" 
         alt="Top 编程语言统计"

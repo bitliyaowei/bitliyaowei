@@ -19,7 +19,7 @@ jobs:
           SHOW_SHORT_INFO: "False" # 用户的简短趣闻信息
           SHOW_OS: "False" # 显示系统
           SHOW_PROJECTS: "True" # 显示项目
-          SHOW_TOTAL_CODE_TIME: "True" # 显示总编码时间
+          SHOW_TOTAL_CODE_TIME: "False" # 显示总编码时间
           SHOW_COMMIT: "True" # 显示提交信息
           SHOW_PROFILE_VIEWS: "False" # 资料页浏览量
           SHOW_DAYS_OF_WEEK: "True"  # 一周中不同日期进行的提交

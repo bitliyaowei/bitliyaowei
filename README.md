@@ -60,11 +60,22 @@
  
 ### 🌐 社交主页
 
-<p align="center">
-  <a href="https://bitliyaowei.github.io/"><img height="22" width="22" src="https://www.fomal.cc/favicon.ico"></a>：个人网站 &nbsp;&nbsp;
-  <a href="https://space.bilibili.com/1671965320"><img height="22" width="22" src="https://www.bilibili.com/favicon.ico"></a>：Bilibili主页 &nbsp;&nbsp;
-  <a href="https://leetcode.cn/u/bitliyaowei/"><img height="22" width="22" src="https://leetcode.cn/favicon.ico"></a>：LeetCode主页 &nbsp;&nbsp;
-  <a href="https://blog.csdn.net/qq_74204532"><img height="22" width="22" src="https://blog.csdn.net/favicon.ico"></a>：CSDN主页
+<p align="center" style="display: flex; justify-content: center; align-items: center; gap: 16px; flex-wrap: wrap; margin: 16px 0;">
+  <a href="https://bitliyaowei.github.io/" style="display: inline-flex; align-items: center; text-decoration: none; color: #333;">
+    <img src="https://www.fomal.cc/favicon.ico" style="width: 20px; height: 20px; vertical-align: middle; margin-right: 4px;"> 个人网站
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://space.bilibili.com/1671965320" style="display: inline-flex; align-items: center; text-decoration: none; color: #333;">
+    <img src="https://www.bilibili.com/favicon.ico" style="width: 20px; height: 20px; vertical-align: middle; margin-right: 4px;"> Bilibili主页
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://leetcode.cn/u/bitliyaowei/" style="display: inline-flex; align-items: center; text-decoration: none; color: #333;">
+    <img src="https://leetcode.cn/favicon.ico" style="width: 20px; height: 20px; vertical-align: middle; margin-right: 4px;"> LeetCode主页
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://blog.csdn.net/qq_74204532" style="display: inline-flex; align-items: center; text-decoration: none; color: #333;">
+    <img src="https://blog.csdn.net/favicon.ico" style="width: 20px; height: 20px; vertical-align: middle; margin-right: 4px;"> CSDN主页
+  </a>
 </p>
 
 ### 🛠️ 技术栈

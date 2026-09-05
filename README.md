@@ -164,13 +164,13 @@
 🕑︎ 时区: Asia/Shanghai
 
 💬 编程语言: 
-Java                     5 mins              ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 % 
+本周没有记录到任何活动
 
 🔥 编辑器: 
-IntelliJ IDEA            5 mins              ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 % 
+本周没有记录到任何活动
 
 🐱‍💻 项目: 
-LuoGuTest.class          5 mins              ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 % 
+本周没有记录到任何活动
 ```
 
 🤖 **AI Coding This Week** 
@@ -180,7 +180,7 @@ No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 04/09/2026 04:05:04 UTC
+ Last Updated on 05/09/2026 04:01:05 UTC
 <!--END_SECTION:waka-->
 </p>
 
